@@ -1,4 +1,4 @@
-## activeMq
+## ActiveMQ
 
 ## Prerequisites
 
@@ -16,6 +16,7 @@ pip install stomp.py
 Clone the repository:
 ```bash
 git clone https://github.com/abhayadevms/activeMq-in-python.git
+cd activeMq-in-python
 ```
 
 Start ActiveMQ and other services using Docker Compose:
